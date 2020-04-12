@@ -20,5 +20,5 @@ Step 3. Tain the model and predict <br> <br>
 Step 1. I found a prepared dataset of Apple stock prices with tweets.<br>
 Step 2. Process he dataset.<br>
 Step 3. Tain different models and predict using each model and compare accuracy scores.<br><br>
-**Result :** RandomForest goves the best accuracy og 91%<br>
+**Result :** RandomForest goves the best accuracy of 91%<br>
 ![](Outputs/RandomForest_Apple_Historical_Dataset_Final.png)
