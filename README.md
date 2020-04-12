@@ -14,9 +14,11 @@ Step 1. I collect tweets using the API on Reliance Industries based on JIO hasht
 Step 2. Get stock data for the week.<br>
 Step 3. Tain the model and predict <br> <br>
 **Result :** As the data is too little to predict anything we couldn't get proper results. We coudn't collect more data due to the limitations of twitter API. <br>
+![](Outputs/RandomForest_Reliance_Week_Data.png)
 
 ### Part 2: 
 Step 1. I found a prepared dataset of Apple stock prices with tweets.<br>
 Step 2. Process he dataset.<br>
 Step 3. Tain different models and predict using each model and compare accuracy scores.<br><br>
 **Result :** RandomForest goves the best accuracy og 91%<br>
+![](Outputs/RandomForest_Apple_Historical_Dataset_Final.png)
